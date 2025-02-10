@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="h-screen bg-zinc-50 p-4 text-gray-100 dark:bg-zinc-950">
+    <div className="bg-zinc-50 p-4 text-gray-100 dark:bg-zinc-950">
       <h1 className="font-mono text-3xl font-bold text-rose-300 sm:text-5xl">
         Hello Tailwind
       </h1>
